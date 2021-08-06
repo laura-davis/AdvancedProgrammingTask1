@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lda49/Projects/AdvancedProgramming/Task1/DrawableGameComponent.cpp
+iostream
+-
+DrawableGameComponent.h
+/Users/lda49/Projects/AdvancedProgramming/Task1/DrawableGameComponent.h
+
+/Users/lda49/Projects/AdvancedProgramming/Task1/DrawableGameComponent.h
+string
+-
+GameComponent.h
+/Users/lda49/Projects/AdvancedProgramming/Task1/GameComponent.h
+
+/Users/lda49/Projects/AdvancedProgramming/Task1/Game.h
+GameComponent.h
+/Users/lda49/Projects/AdvancedProgramming/Task1/GameComponent.h
+
+/Users/lda49/Projects/AdvancedProgramming/Task1/GameComponent.h
+ctime
+-
+
+/Users/lda49/Projects/AdvancedProgramming/Task1/main.cpp
+iostream
+-
+Game.h
+/Users/lda49/Projects/AdvancedProgramming/Task1/Game.h
+GameComponent.h
+/Users/lda49/Projects/AdvancedProgramming/Task1/GameComponent.h
+DrawableGameComponent.h
+/Users/lda49/Projects/AdvancedProgramming/Task1/DrawableGameComponent.h
+
