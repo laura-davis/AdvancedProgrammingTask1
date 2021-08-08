@@ -8,10 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/lda49/Projects/AdvancedProgramming/Task1/DrawableGameComponent.cpp" "/Users/lda49/Projects/AdvancedProgramming/cmake-build-debug/CMakeFiles/AdvancedProgramming.dir/Task1/DrawableGameComponent.cpp.o"
-  "/Users/lda49/Projects/AdvancedProgramming/Task1/Game.cpp" "/Users/lda49/Projects/AdvancedProgramming/cmake-build-debug/CMakeFiles/AdvancedProgramming.dir/Task1/Game.cpp.o"
-  "/Users/lda49/Projects/AdvancedProgramming/Task1/GameComponent.cpp" "/Users/lda49/Projects/AdvancedProgramming/cmake-build-debug/CMakeFiles/AdvancedProgramming.dir/Task1/GameComponent.cpp.o"
-  "/Users/lda49/Projects/AdvancedProgramming/Task1/main.cpp" "/Users/lda49/Projects/AdvancedProgramming/cmake-build-debug/CMakeFiles/AdvancedProgramming.dir/Task1/main.cpp.o"
+  "/Users/lda49/Projects/AdvancedProgramming/Task2/main.cpp" "/Users/lda49/Projects/AdvancedProgramming/cmake-build-debug/CMakeFiles/AdvancedProgramming.dir/Task2/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

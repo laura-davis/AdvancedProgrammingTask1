@@ -66,75 +66,30 @@ include CMakeFiles/AdvancedProgramming.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/AdvancedProgramming.dir/flags.make
 
-CMakeFiles/AdvancedProgramming.dir/Task1/main.cpp.o: CMakeFiles/AdvancedProgramming.dir/flags.make
-CMakeFiles/AdvancedProgramming.dir/Task1/main.cpp.o: ../Task1/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lda49/Projects/AdvancedProgramming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AdvancedProgramming.dir/Task1/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AdvancedProgramming.dir/Task1/main.cpp.o -c /Users/lda49/Projects/AdvancedProgramming/Task1/main.cpp
+CMakeFiles/AdvancedProgramming.dir/Task2/main.cpp.o: CMakeFiles/AdvancedProgramming.dir/flags.make
+CMakeFiles/AdvancedProgramming.dir/Task2/main.cpp.o: ../Task2/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lda49/Projects/AdvancedProgramming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AdvancedProgramming.dir/Task2/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AdvancedProgramming.dir/Task2/main.cpp.o -c /Users/lda49/Projects/AdvancedProgramming/Task2/main.cpp
 
-CMakeFiles/AdvancedProgramming.dir/Task1/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdvancedProgramming.dir/Task1/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lda49/Projects/AdvancedProgramming/Task1/main.cpp > CMakeFiles/AdvancedProgramming.dir/Task1/main.cpp.i
+CMakeFiles/AdvancedProgramming.dir/Task2/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdvancedProgramming.dir/Task2/main.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lda49/Projects/AdvancedProgramming/Task2/main.cpp > CMakeFiles/AdvancedProgramming.dir/Task2/main.cpp.i
 
-CMakeFiles/AdvancedProgramming.dir/Task1/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdvancedProgramming.dir/Task1/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lda49/Projects/AdvancedProgramming/Task1/main.cpp -o CMakeFiles/AdvancedProgramming.dir/Task1/main.cpp.s
-
-CMakeFiles/AdvancedProgramming.dir/Task1/Game.cpp.o: CMakeFiles/AdvancedProgramming.dir/flags.make
-CMakeFiles/AdvancedProgramming.dir/Task1/Game.cpp.o: ../Task1/Game.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lda49/Projects/AdvancedProgramming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/AdvancedProgramming.dir/Task1/Game.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AdvancedProgramming.dir/Task1/Game.cpp.o -c /Users/lda49/Projects/AdvancedProgramming/Task1/Game.cpp
-
-CMakeFiles/AdvancedProgramming.dir/Task1/Game.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdvancedProgramming.dir/Task1/Game.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lda49/Projects/AdvancedProgramming/Task1/Game.cpp > CMakeFiles/AdvancedProgramming.dir/Task1/Game.cpp.i
-
-CMakeFiles/AdvancedProgramming.dir/Task1/Game.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdvancedProgramming.dir/Task1/Game.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lda49/Projects/AdvancedProgramming/Task1/Game.cpp -o CMakeFiles/AdvancedProgramming.dir/Task1/Game.cpp.s
-
-CMakeFiles/AdvancedProgramming.dir/Task1/GameComponent.cpp.o: CMakeFiles/AdvancedProgramming.dir/flags.make
-CMakeFiles/AdvancedProgramming.dir/Task1/GameComponent.cpp.o: ../Task1/GameComponent.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lda49/Projects/AdvancedProgramming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/AdvancedProgramming.dir/Task1/GameComponent.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AdvancedProgramming.dir/Task1/GameComponent.cpp.o -c /Users/lda49/Projects/AdvancedProgramming/Task1/GameComponent.cpp
-
-CMakeFiles/AdvancedProgramming.dir/Task1/GameComponent.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdvancedProgramming.dir/Task1/GameComponent.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lda49/Projects/AdvancedProgramming/Task1/GameComponent.cpp > CMakeFiles/AdvancedProgramming.dir/Task1/GameComponent.cpp.i
-
-CMakeFiles/AdvancedProgramming.dir/Task1/GameComponent.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdvancedProgramming.dir/Task1/GameComponent.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lda49/Projects/AdvancedProgramming/Task1/GameComponent.cpp -o CMakeFiles/AdvancedProgramming.dir/Task1/GameComponent.cpp.s
-
-CMakeFiles/AdvancedProgramming.dir/Task1/DrawableGameComponent.cpp.o: CMakeFiles/AdvancedProgramming.dir/flags.make
-CMakeFiles/AdvancedProgramming.dir/Task1/DrawableGameComponent.cpp.o: ../Task1/DrawableGameComponent.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lda49/Projects/AdvancedProgramming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/AdvancedProgramming.dir/Task1/DrawableGameComponent.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AdvancedProgramming.dir/Task1/DrawableGameComponent.cpp.o -c /Users/lda49/Projects/AdvancedProgramming/Task1/DrawableGameComponent.cpp
-
-CMakeFiles/AdvancedProgramming.dir/Task1/DrawableGameComponent.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AdvancedProgramming.dir/Task1/DrawableGameComponent.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lda49/Projects/AdvancedProgramming/Task1/DrawableGameComponent.cpp > CMakeFiles/AdvancedProgramming.dir/Task1/DrawableGameComponent.cpp.i
-
-CMakeFiles/AdvancedProgramming.dir/Task1/DrawableGameComponent.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdvancedProgramming.dir/Task1/DrawableGameComponent.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lda49/Projects/AdvancedProgramming/Task1/DrawableGameComponent.cpp -o CMakeFiles/AdvancedProgramming.dir/Task1/DrawableGameComponent.cpp.s
+CMakeFiles/AdvancedProgramming.dir/Task2/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AdvancedProgramming.dir/Task2/main.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lda49/Projects/AdvancedProgramming/Task2/main.cpp -o CMakeFiles/AdvancedProgramming.dir/Task2/main.cpp.s
 
 # Object files for target AdvancedProgramming
 AdvancedProgramming_OBJECTS = \
-"CMakeFiles/AdvancedProgramming.dir/Task1/main.cpp.o" \
-"CMakeFiles/AdvancedProgramming.dir/Task1/Game.cpp.o" \
-"CMakeFiles/AdvancedProgramming.dir/Task1/GameComponent.cpp.o" \
-"CMakeFiles/AdvancedProgramming.dir/Task1/DrawableGameComponent.cpp.o"
+"CMakeFiles/AdvancedProgramming.dir/Task2/main.cpp.o"
 
 # External object files for target AdvancedProgramming
 AdvancedProgramming_EXTERNAL_OBJECTS =
 
-AdvancedProgramming: CMakeFiles/AdvancedProgramming.dir/Task1/main.cpp.o
-AdvancedProgramming: CMakeFiles/AdvancedProgramming.dir/Task1/Game.cpp.o
-AdvancedProgramming: CMakeFiles/AdvancedProgramming.dir/Task1/GameComponent.cpp.o
-AdvancedProgramming: CMakeFiles/AdvancedProgramming.dir/Task1/DrawableGameComponent.cpp.o
+AdvancedProgramming: CMakeFiles/AdvancedProgramming.dir/Task2/main.cpp.o
 AdvancedProgramming: CMakeFiles/AdvancedProgramming.dir/build.make
 AdvancedProgramming: CMakeFiles/AdvancedProgramming.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/lda49/Projects/AdvancedProgramming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable AdvancedProgramming"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/lda49/Projects/AdvancedProgramming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable AdvancedProgramming"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/AdvancedProgramming.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

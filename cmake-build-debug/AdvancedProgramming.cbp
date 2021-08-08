@@ -80,25 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/lda49/Projects/AdvancedProgramming/Task1/DrawableGameComponent.cpp">
-			<Option target="AdvancedProgramming"/>
-		</Unit>
-		<Unit filename="/Users/lda49/Projects/AdvancedProgramming/Task1/DrawableGameComponent.h">
-			<Option target="AdvancedProgramming"/>
-		</Unit>
-		<Unit filename="/Users/lda49/Projects/AdvancedProgramming/Task1/Game.cpp">
-			<Option target="AdvancedProgramming"/>
-		</Unit>
-		<Unit filename="/Users/lda49/Projects/AdvancedProgramming/Task1/Game.h">
-			<Option target="AdvancedProgramming"/>
-		</Unit>
-		<Unit filename="/Users/lda49/Projects/AdvancedProgramming/Task1/GameComponent.cpp">
-			<Option target="AdvancedProgramming"/>
-		</Unit>
-		<Unit filename="/Users/lda49/Projects/AdvancedProgramming/Task1/GameComponent.h">
-			<Option target="AdvancedProgramming"/>
-		</Unit>
-		<Unit filename="/Users/lda49/Projects/AdvancedProgramming/Task1/main.cpp">
+		<Unit filename="/Users/lda49/Projects/AdvancedProgramming/Task2/main.cpp">
 			<Option target="AdvancedProgramming"/>
 		</Unit>
 		<Unit filename="/Users/lda49/Projects/AdvancedProgramming/CMakeLists.txt">

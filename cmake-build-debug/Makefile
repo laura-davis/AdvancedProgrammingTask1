@@ -129,101 +129,29 @@ AdvancedProgramming/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdvancedProgramming.dir/build.make CMakeFiles/AdvancedProgramming.dir/build
 .PHONY : AdvancedProgramming/fast
 
-Task1/DrawableGameComponent.o: Task1/DrawableGameComponent.cpp.o
-.PHONY : Task1/DrawableGameComponent.o
+Task2/main.o: Task2/main.cpp.o
+.PHONY : Task2/main.o
 
 # target to build an object file
-Task1/DrawableGameComponent.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdvancedProgramming.dir/build.make CMakeFiles/AdvancedProgramming.dir/Task1/DrawableGameComponent.cpp.o
-.PHONY : Task1/DrawableGameComponent.cpp.o
+Task2/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdvancedProgramming.dir/build.make CMakeFiles/AdvancedProgramming.dir/Task2/main.cpp.o
+.PHONY : Task2/main.cpp.o
 
-Task1/DrawableGameComponent.i: Task1/DrawableGameComponent.cpp.i
-.PHONY : Task1/DrawableGameComponent.i
-
-# target to preprocess a source file
-Task1/DrawableGameComponent.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdvancedProgramming.dir/build.make CMakeFiles/AdvancedProgramming.dir/Task1/DrawableGameComponent.cpp.i
-.PHONY : Task1/DrawableGameComponent.cpp.i
-
-Task1/DrawableGameComponent.s: Task1/DrawableGameComponent.cpp.s
-.PHONY : Task1/DrawableGameComponent.s
-
-# target to generate assembly for a file
-Task1/DrawableGameComponent.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdvancedProgramming.dir/build.make CMakeFiles/AdvancedProgramming.dir/Task1/DrawableGameComponent.cpp.s
-.PHONY : Task1/DrawableGameComponent.cpp.s
-
-Task1/Game.o: Task1/Game.cpp.o
-.PHONY : Task1/Game.o
-
-# target to build an object file
-Task1/Game.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdvancedProgramming.dir/build.make CMakeFiles/AdvancedProgramming.dir/Task1/Game.cpp.o
-.PHONY : Task1/Game.cpp.o
-
-Task1/Game.i: Task1/Game.cpp.i
-.PHONY : Task1/Game.i
+Task2/main.i: Task2/main.cpp.i
+.PHONY : Task2/main.i
 
 # target to preprocess a source file
-Task1/Game.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdvancedProgramming.dir/build.make CMakeFiles/AdvancedProgramming.dir/Task1/Game.cpp.i
-.PHONY : Task1/Game.cpp.i
+Task2/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdvancedProgramming.dir/build.make CMakeFiles/AdvancedProgramming.dir/Task2/main.cpp.i
+.PHONY : Task2/main.cpp.i
 
-Task1/Game.s: Task1/Game.cpp.s
-.PHONY : Task1/Game.s
-
-# target to generate assembly for a file
-Task1/Game.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdvancedProgramming.dir/build.make CMakeFiles/AdvancedProgramming.dir/Task1/Game.cpp.s
-.PHONY : Task1/Game.cpp.s
-
-Task1/GameComponent.o: Task1/GameComponent.cpp.o
-.PHONY : Task1/GameComponent.o
-
-# target to build an object file
-Task1/GameComponent.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdvancedProgramming.dir/build.make CMakeFiles/AdvancedProgramming.dir/Task1/GameComponent.cpp.o
-.PHONY : Task1/GameComponent.cpp.o
-
-Task1/GameComponent.i: Task1/GameComponent.cpp.i
-.PHONY : Task1/GameComponent.i
-
-# target to preprocess a source file
-Task1/GameComponent.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdvancedProgramming.dir/build.make CMakeFiles/AdvancedProgramming.dir/Task1/GameComponent.cpp.i
-.PHONY : Task1/GameComponent.cpp.i
-
-Task1/GameComponent.s: Task1/GameComponent.cpp.s
-.PHONY : Task1/GameComponent.s
+Task2/main.s: Task2/main.cpp.s
+.PHONY : Task2/main.s
 
 # target to generate assembly for a file
-Task1/GameComponent.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdvancedProgramming.dir/build.make CMakeFiles/AdvancedProgramming.dir/Task1/GameComponent.cpp.s
-.PHONY : Task1/GameComponent.cpp.s
-
-Task1/main.o: Task1/main.cpp.o
-.PHONY : Task1/main.o
-
-# target to build an object file
-Task1/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdvancedProgramming.dir/build.make CMakeFiles/AdvancedProgramming.dir/Task1/main.cpp.o
-.PHONY : Task1/main.cpp.o
-
-Task1/main.i: Task1/main.cpp.i
-.PHONY : Task1/main.i
-
-# target to preprocess a source file
-Task1/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdvancedProgramming.dir/build.make CMakeFiles/AdvancedProgramming.dir/Task1/main.cpp.i
-.PHONY : Task1/main.cpp.i
-
-Task1/main.s: Task1/main.cpp.s
-.PHONY : Task1/main.s
-
-# target to generate assembly for a file
-Task1/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdvancedProgramming.dir/build.make CMakeFiles/AdvancedProgramming.dir/Task1/main.cpp.s
-.PHONY : Task1/main.cpp.s
+Task2/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdvancedProgramming.dir/build.make CMakeFiles/AdvancedProgramming.dir/Task2/main.cpp.s
+.PHONY : Task2/main.cpp.s
 
 # Help Target
 help:
@@ -234,18 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... AdvancedProgramming"
-	@echo "... Task1/DrawableGameComponent.o"
-	@echo "... Task1/DrawableGameComponent.i"
-	@echo "... Task1/DrawableGameComponent.s"
-	@echo "... Task1/Game.o"
-	@echo "... Task1/Game.i"
-	@echo "... Task1/Game.s"
-	@echo "... Task1/GameComponent.o"
-	@echo "... Task1/GameComponent.i"
-	@echo "... Task1/GameComponent.s"
-	@echo "... Task1/main.o"
-	@echo "... Task1/main.i"
-	@echo "... Task1/main.s"
+	@echo "... Task2/main.o"
+	@echo "... Task2/main.i"
+	@echo "... Task2/main.s"
 .PHONY : help
 
 
