@@ -15,7 +15,7 @@ void Terminate() {
 }
 
 int main() {
-    Game game(1); // Create a dynamic instance of Game - maxComponents mentioned in
+    Game game(1); // Create a dynamic instance of Game
 
     game.SetInitialise(Initialise); // Invoke SetInitialise
 
