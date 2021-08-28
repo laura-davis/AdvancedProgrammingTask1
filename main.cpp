@@ -1,5 +1,4 @@
 #include <iostream> // Include iostream library to abbreviate cout and endl commands
-
 #include "Game.h" // Include Game header file to make use of class declarations
 #include "GameComponent.h" // Include GameComponent header file to make use of class declarations
 #include "DrawableGameComponent.h" // Include DrawableGameComponent header file to make use of class declarations
